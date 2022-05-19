@@ -10,4 +10,7 @@
 - CSS
 - JavaScript
 
+## Confira o resultado
+https://rafaelarbz.github.io/beacademy-devstart-frontend-myportfolio/
+
 ###### Desenvolvido por [Rafaela Rabelo](https://linkedin.com/in/rafaelarsouza).
